@@ -1,0 +1,14 @@
+h2.h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: brown; font-size: 20px; font-style: italic; font-weight: bold;
+}
+h2.h21 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: aquamarine; font-size: 50px; font-style: normal; font-weight: lighter;
+}
+h2.h22 {
+  font-family: Georgia, 'Times New Roman', Times, serif; color: blueviolet; font-size: 30px; font-style: initial; font-weight: bolder;
+}
+.menu {
+  
+}
